@@ -3,7 +3,7 @@ import './Css/ShopCategory.css'
 import {ShopContext} from '../Context/ShopContext'
 import dropdown_icon from '../Component/Assets/dropdown_icon.png'
 import Items from '../Component/Item/Items'
-import all_product from '../Component/Assets/all_product'
+
 
 
 
